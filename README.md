@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shamridha/Leetcode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0273-integer-to-english-words](https://github.com/Shamridha/Leetcode-Solution/tree/master/0273-integer-to-english-words) |
 ## Sliding Window
 |  |
 | ------- |
@@ -18,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shamridha/Leetcode-Solution/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0273-integer-to-english-words](https://github.com/Shamridha/Leetcode-Solution/tree/master/0273-integer-to-english-words) |
+## Recursion
+|  |
+| ------- |
+| [0273-integer-to-english-words](https://github.com/Shamridha/Leetcode-Solution/tree/master/0273-integer-to-english-words) |
 <!---LeetCode Topics End-->
