@@ -21,9 +21,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Shamridha/Leetcode-Solution/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shamridha/Leetcode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0048-rotate-image](https://github.com/Shamridha/Leetcode-Solution/tree/master/0048-rotate-image) |
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Shamridha/Leetcode-Solution/tree/master/0048-rotate-image) |
 | [0273-integer-to-english-words](https://github.com/Shamridha/Leetcode-Solution/tree/master/0273-integer-to-english-words) |
 ## Recursion
 |  |
@@ -37,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shamridha/Leetcode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Shamridha/Leetcode-Solution/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
