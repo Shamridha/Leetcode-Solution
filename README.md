@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shamridha/Leetcode-Solution/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shamridha/Leetcode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0048-rotate-image](https://github.com/Shamridha/Leetcode-Solution/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Shamridha/Leetcode-Solution/tree/master/0054-spiral-matrix) |
 ## Math
 |  |
 | ------- |
@@ -43,4 +44,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Shamridha/Leetcode-Solution/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Shamridha/Leetcode-Solution/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Shamridha/Leetcode-Solution/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
