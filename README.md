@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Shamridha/Leetcode-Solution/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Shamridha/Leetcode-Solution/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Shamridha/Leetcode-Solution/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Shamridha/Leetcode-Solution/tree/master/0075-sort-colors) |
 ## Math
 |  |
 | ------- |
@@ -61,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shamridha/Leetcode-Solution/tree/master/0022-generate-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Shamridha/Leetcode-Solution/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Shamridha/Leetcode-Solution/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
