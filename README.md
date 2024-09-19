@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Shamridha/Leetcode-Solution/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shamridha/Leetcode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/Shamridha/Leetcode-Solution/tree/master/0073-set-matrix-zeroes) |
 ## String
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Shamridha/Leetcode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0048-rotate-image](https://github.com/Shamridha/Leetcode-Solution/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Shamridha/Leetcode-Solution/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Shamridha/Leetcode-Solution/tree/master/0073-set-matrix-zeroes) |
 ## Math
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Shamridha/Leetcode-Solution/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Shamridha/Leetcode-Solution/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Shamridha/Leetcode-Solution/tree/master/0073-set-matrix-zeroes) |
 ## Simulation
 |  |
 | ------- |
