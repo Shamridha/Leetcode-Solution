@@ -11,9 +11,9 @@ class Solution {
             al.add(ans);
             return;
         }
-        if(o>c||c>n||o>n)
+        if(o<c||c>n||o>n)
         return;
-        generate(n,c+1,o,ans+"(");
-        generate(n,c,o+1,ans+")");
+        generate(n,c,o+1,ans+"(");
+        generate(n,c+1,o,ans+")");
     }
 }
