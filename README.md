@@ -70,4 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Shamridha/Leetcode-Solution/tree/master/0075-sort-colors) |
+## Depth-First Search
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Shamridha/Leetcode-Solution/tree/master/0386-lexicographical-numbers) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Shamridha/Leetcode-Solution/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
