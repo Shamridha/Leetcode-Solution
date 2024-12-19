@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Shamridha/Leetcode-Solution/tree/master/0206-reverse-linked-list) |
 | [0273-integer-to-english-words](https://github.com/Shamridha/Leetcode-Solution/tree/master/0273-integer-to-english-words) |
 ## Binary Search
 |  |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Shamridha/Leetcode-Solution/tree/master/0386-lexicographical-numbers) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Shamridha/Leetcode-Solution/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
