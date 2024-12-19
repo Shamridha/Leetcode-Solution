@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shamridha/Leetcode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Shamridha/Leetcode-Solution/tree/master/0006-zigzag-conversion) |
+| [0020-valid-parentheses](https://github.com/Shamridha/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Shamridha/Leetcode-Solution/tree/master/0022-generate-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Shamridha/Leetcode-Solution/tree/master/0273-integer-to-english-words) |
 ## Sliding Window
@@ -83,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Shamridha/Leetcode-Solution/tree/master/0206-reverse-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Shamridha/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
