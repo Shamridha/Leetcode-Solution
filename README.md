@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Shamridha/Leetcode-Solution/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/Shamridha/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Shamridha/Leetcode-Solution/tree/master/0022-generate-parentheses) |
+| [0224-basic-calculator](https://github.com/Shamridha/Leetcode-Solution/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/Shamridha/Leetcode-Solution/tree/master/0273-integer-to-english-words) |
 ## Sliding Window
 |  |
@@ -33,12 +34,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Shamridha/Leetcode-Solution/tree/master/0048-rotate-image) |
+| [0224-basic-calculator](https://github.com/Shamridha/Leetcode-Solution/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/Shamridha/Leetcode-Solution/tree/master/0273-integer-to-english-words) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Shamridha/Leetcode-Solution/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Shamridha/Leetcode-Solution/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/Shamridha/Leetcode-Solution/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/Shamridha/Leetcode-Solution/tree/master/0273-integer-to-english-words) |
 ## Binary Search
 |  |
@@ -93,4 +96,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shamridha/Leetcode-Solution/tree/master/0020-valid-parentheses) |
+| [0224-basic-calculator](https://github.com/Shamridha/Leetcode-Solution/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
