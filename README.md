@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Shamridha/Leetcode-Solution/tree/master/0098-validate-binary-search-tree) |
 | [0386-lexicographical-numbers](https://github.com/Shamridha/Leetcode-Solution/tree/master/0386-lexicographical-numbers) |
 ## Trie
 |  |
@@ -135,4 +136,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Shamridha/Leetcode-Solution/tree/master/0268-missing-number) |
+## Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Shamridha/Leetcode-Solution/tree/master/0098-validate-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Shamridha/Leetcode-Solution/tree/master/0098-validate-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Shamridha/Leetcode-Solution/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
